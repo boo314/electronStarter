@@ -1,28 +1,41 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron main.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
-  },
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
-  ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
-  "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
-  },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
-  "devDependencies": {
-    "electron-prebuilt": "^1.0.1"
-  }
+    "name": "electronStarter"
+    , "version": "1.0.0"
+    , "description": "Electron application with Bootstrap3, AngularJs 1.5.5, jQuery, d3.js and Font Awesome"
+    , "main": "main.js"
+    , "scripts": {
+        "start": "electron main.js"
+    }
+    , "repository": {
+        "type": "git"
+        , "url": "git+https://github.com/boo314/electronStarter.git"
+    }
+    , "keywords": [
+    "Electron"
+        
+        , "quick"
+        
+        , "start"
+        
+        , "tutorial"
+        
+        , "angular"
+        
+        , "bootstrap"
+        
+        , "jquery"
+        
+        , "d3"
+        
+        , "boo314"
+  ]
+    , "author": "GitHub"
+    , "license": "CC0-1.0"
+    , "bugs": {
+        "url": "https://github.com/electron/electronStarter/issues"
+    }
+    , "homepage": "https://github.com/boo314/electronStarter#readme"
+    , "devDependencies": {
+        "electron-prebuilt": "^1.0.1"
+    }
 }
